@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Syed%20Fawad%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">💻 Full Stack Developer | BSCS Student | Problem Solver 🚀</h3>
+<h3 align="center">💻 Full Stack Developer | BSCS Graduate | Problem Solver 🚀</h3>
 
 ---
 
@@ -11,20 +11,18 @@
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Final Year BSCS Student  
-- 💻 ASP.NET Core | C# | SQL Server  
-- 🌐 Passionate About Web Development  
-- 🔥 Love Building Scalable Systems  
-- 📍 Pakistan  
+- 🎓 BSCS Graduate  
+- 💻 Specialized in ASP.NET Core, C#, SQL Server  
+- 🌐 Focused on Modern Web Development  
+- 🔥 Passionate About Scalable & High-Performance Systems  
+- 📍 Based in Pakistan  
 
 ---
 
 ## 🚀 Tech Stack  
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,git,github,visualstudio,mysql" />
-
 </p>
 
 ---
